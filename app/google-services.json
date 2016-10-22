@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "220691171940",
+    "project_id": "firebase-ganalyticsample"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220691171940:android:8268e5b1e0464137",
+        "android_client_info": {
+          "package_name": "com.example.saket.ganalyticsample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoBjbnaZalivhVBQSxKEWfl1tyKw6-rcs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-86113238-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
